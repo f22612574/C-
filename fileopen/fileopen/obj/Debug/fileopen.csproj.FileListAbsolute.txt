@@ -1,0 +1,10 @@
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\bin\Debug\fileopen.exe.config
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\bin\Debug\fileopen.exe
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\bin\Debug\fileopen.pdb
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.csprojResolveAssemblyReference.cache
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.Form1.resources
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.Properties.Resources.resources
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.csproj.GenerateResource.cache
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.csproj.CoreCompileInputs.cache
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.exe
+C:\Users\roy_shih\Desktop\Git\C#\fileopen\fileopen\obj\Debug\fileopen.pdb

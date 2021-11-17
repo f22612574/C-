@@ -1,0 +1,10 @@
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\bin\Debug\oder.exe.config
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\bin\Debug\oder.exe
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\bin\Debug\oder.pdb
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.csprojResolveAssemblyReference.cache
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.Form1.resources
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.Properties.Resources.resources
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.csproj.GenerateResource.cache
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.csproj.CoreCompileInputs.cache
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.exe
+C:\Users\roy_shih\Desktop\Git\C#\pictureoder\oder\oder\obj\Debug\oder.pdb
